@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shri Ram Singh</h1>
-<h3 align="center">Full-Stack & Mobile App Developer</h3>
+<h1 align="center">Hi 👋, I'm Shriram Singh</h1>
+<h3 align="center">Senior React Native Developer | 5+ Years Experience</h3>
+<p align="center">📍 Jaipur, Rajasthan, India</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Mobile+App+Developer;React+Native+%26+Node.js;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+React+Native+Developer;5%2B+Years+iOS+%26+Android+Experience;TypeScript+%26+Redux+Toolkit+Expert;Oracle+Certified+AI+Agent+Studio;Firebase%2C+Stripe%2C+Razorpay+%26+Agora;App+Store+%26+Play+Store+Deployments" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,20 +17,21 @@
   <a href="mailto:jairam.singh9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/shriramsingh/shriramsingh-dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <a href="tel:+918890218200">
+    <img src="https://img.shields.io/badge/Phone-+91_8890218200-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 💻 Passionate about building robust, high-performance web and mobile applications.
-- 📱 Experienced in native Android development (Java) and cross-platform mobile apps using React Native.
-- 🌐 Proficient with JavaScript, Node.js, Express.js, HTML5/CSS3, and modern web development practices.
-- ⚡ Fun Fact: Enthusiastic about open source, clean code architecture, and learning emerging tech stacks.
-- 📫 How to reach me: **jairam.singh9@gmail.com**
+- 🚀 **Senior React Native Developer** with **5+ years of experience** delivering production-ready Android and iOS applications using **React Native & TypeScript**.
+- 🤖 **Oracle Certified Foundations Associate** in **Oracle Fusion AI Agent Studio**.
+- 📱 Experienced across **Restaurant, Education, Gaming, Utility, and Social Networking** products.
+- ⚡ Expert in **Redux Toolkit, Context API, REST APIs, Firebase, Payment Gateways (Stripe, Razorpay), Real-time Chat (CometChat), Video (Agora)**, and Performance Optimization.
+- 📲 Full lifecycle ownership from requirement gathering through **Google Play Store & Apple App Store release**.
+- 🎓 **Master of Computer Applications (MCA)** – Chandigarh University (2020).
 
 ---
 
@@ -43,32 +45,75 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technical Skills & Ecosystem
 
-### 💻 Programming Languages
+### 📱 Mobile & Core Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 📱 Mobile & Backend
+### 🏗️ State & Architecture
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Redux_Saga-999999?style=flat-square&logo=redux-saga&logoColor=white" alt="Redux Saga" />
+  <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
-### 🛠️ Tools & Environments
+### 🔌 Third-Party SDKs & AI Integrations
+<p>
+  <img src="https://img.shields.io/badge/Oracle_AI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle AI" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2340?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white" alt="Agora" />
+  <img src="https://img.shields.io/badge/CometChat-0052CC?style=flat-square&logo=chat&logoColor=white" alt="CometChat" />
+  <img src="https://img.shields.io/badge/Google_AdMob-4285F4?style=flat-square&logo=googleadmob&logoColor=white" alt="AdMob" />
+</p>
+
+### 🛠️ Developer Tools & Deployments
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Fastlane-00F2B2?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
+
+---
+
+## 💼 Product Experience & Key Projects
+
+| Product / Project | Description & Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| 🍽️ **KitchenConnect** | Restaurant Management Platform | `React Native` `TypeScript` `Redux` |
+| 📚 **CoachConnect** | Coaching Institute Management Platform | `React Native` `REST APIs` |
+| 🧠 **Trivia** | Quiz app with AdMob monetization & Stripe integration | `React Native` `Stripe` `AdMob` |
+| 🚗 **CarWash** | On-demand service app with booking, payments & push notifications | `React Native` `Firebase` `Razorpay` |
+| 💬 **Addy** | Social networking platform with real-time chat & in-app purchases | `React Native` `CometChat` `Plaid` |
+| 🎥 **LoveLense** | Video dating application with live audio/video streaming | `React Native` `Agora SDK` |
+| 🍽️ [restauranManagementSystem](https://github.com/shriramsingh/restauranManagementSystem) | Full-featured Restaurant Management Portal | `Java` `JavaScript` |
+| 🔒 [PocketLock-Android](https://github.com/shriramsingh/PocketLock-Android) | Pocket Lock security application for Android | `Java` `Android` |
+| 📄 [HrDocumentGenerator](https://github.com/shriramsingh/HrDocumentGenerator) | Automated HR Document & Report Generator Tool | `JavaScript` `Node.js` |
+
+---
+
+## 📜 Certifications & Education
+
+### 🏆 Certifications
+- 🔴 **Oracle Certified Foundations Associate** – *Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1* (July 2026 \| ID: `103490003OFAASOFA`)
+- ☕ **Core Java Certification** – Hewlett Packard Enterprise (2018)
+- 🌐 **PHP & MySQL Training** – Spoken Tutorial (2019)
+
+### 🎓 Education
+- 🎓 **Master of Computer Applications (MCA)** – Chandigarh University (2020)
+- 🎓 **Bachelor of Science (B.Sc.)** – S. S. Jain Subodh PG College (2016)
 
 ---
 
@@ -94,17 +139,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shriramsingh/shriramsingh/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-## ⭐ Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🍽️ [restauranManagementSystem](https://github.com/shriramsingh/restauranManagementSystem) | Full-featured Restaurant Management System | `Java` `JavaScript` |
-| 🔒 [PocketLock-Android](https://github.com/shriramsingh/PocketLock-Android) | Pocket Lock security application for Android | `Java` `Android` |
-| 📄 [HrDocumentGenerator](https://github.com/shriramsingh/HrDocumentGenerator) | Automated HR Document & Report Generator Tool | `JavaScript` `Node.js` |
-| 🔑 [NodeLoginSignupApp](https://github.com/shriramsingh/NodeLoginSignupApp) | Full-stack user authentication system | `JavaScript` `Node.js` |
 
 ---
 
