@@ -1,0 +1,14 @@
+name: Update Readme Keepalive
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Weekly refresh on Monday
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Keepalive Workflow
+        run: echo "Profile README refreshed on $(date)"
