@@ -95,13 +95,13 @@
 
 | Product / Project | Description & Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| 🍽️ **KitchenConnect** | Restaurant Management Platform | `React Native` `TypeScript` `Redux` |
+| 📱 **KitchenConnect** | Mobile Application for Restaurant Management | `React Native` `TypeScript` `Redux` |
 | 📚 **CoachConnect** | Coaching Institute Management Platform | `React Native` `REST APIs` |
 | 🧠 **Trivia** | Quiz app with AdMob monetization & Stripe integration | `React Native` `Stripe` `AdMob` |
 | 🚗 **CarWash** | On-demand service app with booking, payments & push notifications | `React Native` `Firebase` `Razorpay` |
 | 💬 **Addy** | Social networking platform with real-time chat & in-app purchases | `React Native` `CometChat` `Plaid` |
 | 🎥 **LoveLense** | Video dating application with live audio/video streaming | `React Native` `Agora SDK` |
-| 🍽️ [restauranManagementSystem](https://github.com/shriramsingh/restauranManagementSystem) | Full-featured Restaurant Management Portal ([Live Demo](https://restauran-management-system.vercel.app/)) | `Java` `JavaScript` |
+| 🌐 [restauranManagementSystem](https://github.com/shriramsingh/restauranManagementSystem) | Web-based Restaurant Management System ([Live Demo](https://restauran-management-system.vercel.app/)) | `Java` `JavaScript` |
 | 🔒 [PocketLock-Android](https://github.com/shriramsingh/PocketLock-Android) | Pocket Lock security application for Android | `Java` `Android` |
 | 📄 [HrDocumentGenerator](https://github.com/shriramsingh/HrDocumentGenerator) | Automated HR Document & Report Generator Tool | `JavaScript` `Node.js` |
 
