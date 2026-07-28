@@ -95,7 +95,7 @@
 
 | Product / Project | Description & Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| 🍽️ **KitchenConnect** | Restaurant Management Platform ([Live App](https://restauran-management-system.vercel.app/)) | `React Native` `TypeScript` `Redux` |
+| 🍽️ **KitchenConnect** | Restaurant Management Platform | `React Native` `TypeScript` `Redux` |
 | 📚 **CoachConnect** | Coaching Institute Management Platform | `React Native` `REST APIs` |
 | 🧠 **Trivia** | Quiz app with AdMob monetization & Stripe integration | `React Native` `Stripe` `AdMob` |
 | 🚗 **CarWash** | On-demand service app with booking, payments & push notifications | `React Native` `Firebase` `Razorpay` |
