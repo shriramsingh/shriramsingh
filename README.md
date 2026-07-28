@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/shriramsingh">
-    <img src="https://github-profile-trophy.vercel.app/?username=shriramsingh&theme=tokyonight&no-frame=true&no-background=true&column=6" alt="Shri Ram Singh GitHub Trophies" />
+    <img src="https://github-profile-trophy-eight.vercel.app/?username=shriramsingh&theme=tokyonight&no-frame=true&no-background=true&column=6" alt="Shri Ram Singh GitHub Trophies" />
   </a>
 </p>
 
