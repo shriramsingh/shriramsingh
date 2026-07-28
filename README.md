@@ -100,10 +100,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🛡️ [MobileSecurityPack](https://github.com/shriramsingh/MobileSecurityPack) | Android security application system | `Java` `Android` |
-| 🔑 [NodeLoginSignupApp](https://github.com/shriramsingh/NodeLoginSignupApp) | Full-stack authentication application | `JavaScript` `Node.js` |
-| 📱 [reactnativecomponent](https://github.com/shriramsingh/reactnativecomponent) | UI Component library for mobile apps | `React Native` `JavaScript` |
-| ☁️ [cloud6](https://github.com/shriramsingh/cloud6) | Cloud management web application | `HTML` `CSS` `JavaScript` |
+| 🍽️ [restauranManagementSystem](https://github.com/shriramsingh/restauranManagementSystem) | Full-featured Restaurant Management System | `Java` `JavaScript` |
+| 🔒 [PocketLock-Android](https://github.com/shriramsingh/PocketLock-Android) | Pocket Lock security application for Android | `Java` `Android` |
+| 📄 [HrDocumentGenerator](https://github.com/shriramsingh/HrDocumentGenerator) | Automated HR Document & Report Generator Tool | `JavaScript` `Node.js` |
+| 🔑 [NodeLoginSignupApp](https://github.com/shriramsingh/NodeLoginSignupApp) | Full-stack user authentication system | `JavaScript` `Node.js` |
 
 ---
 
