@@ -3,7 +3,7 @@
 <p align="center">📍 Jaipur, Rajasthan, India</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+React+Native+Developer;5%2B+Years+iOS+%26+Android+Experience;TypeScript+%26+Redux+Toolkit+Expert;Oracle+Certified+AI+Agent+Studio;Firebase%2C+Stripe%2C+Razorpay+%26+Agora;App+Store+%26+Play+Store+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+React+Native+Developer;Creator+of+PromptTest+(Mobile+QA+Engine);5%2B+Years+iOS+%26+Android+Experience;TypeScript+%26+Redux+Toolkit+Expert;Oracle+Certified+AI+Agent+Studio;Firebase%2C+Stripe%2C+Razorpay+%26+Agora;App+Store+%26+Play+Store+Deployments" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,12 +29,41 @@
 
 ## 👨‍💻 Professional Summary
 
+- ⚡ **Creator of [PromptTest](https://www.npmjs.com/package/prompttest)** — Ultra-fast, zero-code autonomous mobile testing & visual QA engine for Android & React Native published on npm.
 - 🚀 **Senior React Native Developer** with **5+ years of experience** delivering production-ready Android and iOS applications using **React Native & TypeScript**.
 - 🤖 **Oracle Certified Foundations Associate** in **Oracle Fusion AI Agent Studio**.
 - 📱 Experienced across **Restaurant, Education, Gaming, Utility, and Social Networking** products.
 - ⚡ Expert in **Redux Toolkit, Context API, REST APIs, Firebase, Payment Gateways (Stripe, Razorpay), Real-time Chat (CometChat), Video (Agora)**, and Performance Optimization.
 - 📲 Full lifecycle ownership from requirement gathering through **Google Play Store & Apple App Store release**.
 - 🎓 **Master of Computer Applications (MCA)** – Chandigarh University (2020).
+
+---
+
+## 🌟 Featured Open-Source Engineering
+
+### ⚡ [PromptTest — Autonomous Mobile Testing & Visual QA Engine](https://www.npmjs.com/package/prompttest)
+
+<p>
+  <a href="https://www.npmjs.com/package/prompttest">
+    <img src="https://img.shields.io/npm/v/prompttest.svg?color=cb3837&style=flat-square" alt="npm version" />
+  </a>
+  <a href="https://www.npmjs.com/package/prompttest">
+    <img src="https://img.shields.io/npm/dm/prompttest.svg?color=blue&style=flat-square" alt="npm downloads" />
+  </a>
+  <a href="https://github.com/shriramsingh/prompttest-community">
+    <img src="https://img.shields.io/badge/Community-prompttest--community-green?style=flat-square&logo=github" alt="Community Tracker" />
+  </a>
+  <img src="https://img.shields.io/badge/Node.js-18%2B-green.svg?style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Android-ADB%20Native-orange.svg?style=flat-square" alt="ADB" />
+</p>
+
+> **The zero-setup, zero-instrumentation alternative to Appium & Detox for React Native, Expo, and Native Android.**
+
+- 📝 **Plain-English Test Specs**: Write natural language test scripts without brittle XPath selectors or boilerplate test glue code.
+- ⚡ **Zero-Setup & Zero-Instrumentation**: Connects directly over native Android ADB (USB or Wi-Fi); requires zero SDKs or code modifications in the target app.
+- 🤖 **Autonomous State-Graph DFS Explorer**: Crawls apps autonomously, discovers bottom-tab navigation hubs, and triages defects without human intervention.
+- 💡 **Dynamic Self-Healing Locators**: Resilient heuristic matching automatically adapts to changing dynamic counts (e.g. auto-resolving `"Present (2)"` to `"Present (5)"`).
+- 🌐 **Public Community Hub**: [shriramsingh/prompttest-community](https://github.com/shriramsingh/prompttest-community)
 
 ---
 
@@ -68,6 +97,15 @@
   <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
+### 🧪 Mobile QA & Automation
+<p>
+  <img src="https://img.shields.io/badge/PromptTest-CB3837?style=flat-square&logo=npm&logoColor=white" alt="PromptTest" />
+  <img src="https://img.shields.io/badge/Android_ADB-3DDC84?style=flat-square&logo=android&logoColor=white" alt="ADB" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/E2E_Testing-007ACC?style=flat-square&logo=googlechrome&logoColor=white" alt="E2E Testing" />
+</p>
+
 ### 🔌 Third-Party SDKs & AI Integrations
 <p>
   <img src="https://img.shields.io/badge/Oracle_AI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle AI" />
@@ -95,6 +133,7 @@
 
 | Product / Project | Description & Highlights | Tech Stack |
 | :--- | :--- | :--- |
+| ⚡ [PromptTest](https://www.npmjs.com/package/prompttest) | Autonomous mobile testing & visual QA engine for Android & React Native ([Community Hub](https://github.com/shriramsingh/prompttest-community)) | `TypeScript` `Node.js` `Android ADB` `Vitest` |
 | 📱 **Restaurant Management** | Web Application for Restaurant Management | `Next js` `TypeScript`  |
 | 📚 **CoachConnect** | Coaching Institute Management Platform | `React Native` `REST APIs` |
 | 🧠 **Trivia** | Quiz app with AdMob monetization & Stripe integration | `React Native` `Stripe` `AdMob` |
