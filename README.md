@@ -3,7 +3,7 @@
 <p align="center">📍 Jaipur, Rajasthan, India</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+React+Native+Developer;Creator+of+PromptTest+(Mobile+QA+Engine);5%2B+Years+iOS+%26+Android+Experience;TypeScript+%26+Redux+Toolkit+Expert;Oracle+Certified+AI+Agent+Studio;Firebase%2C+Stripe%2C+Razorpay+%26+Agora;App+Store+%26+Play+Store+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+React+Native+Developer;Creator+of+ADBSnap+(4K+Store+Asset+Studio);Creator+of+PromptTest+Studio+(Mobile+QA+IDE);5%2B+Years+iOS+%26+Android+Experience;TypeScript+%26+Redux+Toolkit+Expert;Oracle+Certified+AI+Agent+Studio;App+Store+%26+Play+Store+Deployments" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,7 +29,8 @@
 
 ## 👨‍💻 Professional Summary
 
-- ⚡ **Creator of [PromptTest](https://www.npmjs.com/package/prompttest)** — Ultra-fast, zero-code autonomous mobile testing & visual QA engine for Android & React Native published on npm.
+- 📸 **Creator of [ADBSnap](https://shriramsingh.github.io/adbsnap/)** — Automated 4K mobile screenshot framing & store asset studio published on [npm](https://www.npmjs.com/package/adbsnap) and the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=shriramsingh.adbsnap).
+- ⚡ **Creator of [PromptTest Studio](https://shriramsingh.github.io/prompttest-studio-site/)** — Autonomous mobile QA brain & visual desktop IDE for Android & React Native published on [npm](https://www.npmjs.com/package/prompttest).
 - 🚀 **Senior React Native Developer** with **5+ years of experience** delivering production-ready Android and iOS applications using **React Native & TypeScript**.
 - 🤖 **Oracle Certified Foundations Associate** in **Oracle Fusion AI Agent Studio**.
 - 📱 Experienced across **Restaurant, Education, Gaming, Utility, and Social Networking** products.
@@ -41,14 +42,41 @@
 
 ## 🌟 Featured Open-Source Engineering
 
-### ⚡ [PromptTest — Autonomous Mobile Testing & Visual QA Engine](https://www.npmjs.com/package/prompttest)
+### 📸 [ADBSnap — 4K Mobile Device Framing & Store Asset Studio](https://shriramsingh.github.io/adbsnap/)
+
+<p>
+  <a href="https://www.npmjs.com/package/adbsnap">
+    <img src="https://img.shields.io/npm/v/adbsnap.svg?color=cb3837&style=flat-square" alt="npm version" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=shriramsingh.adbsnap">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/shriramsingh.adbsnap.svg?style=flat-square&color=blue&label=VS%20Code" alt="VS Code Marketplace" />
+  </a>
+  <a href="https://shriramsingh.github.io/adbsnap/">
+    <img src="https://img.shields.io/badge/website-live-success.svg?style=flat-square" alt="Website" />
+  </a>
+  <a href="https://github.com/shriramsingh/adbsnap/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" />
+  </a>
+</p>
+
+> **Direct RAM capture over ADB, 4K vector bezels, dynamic typography, and 1-click store asset generation for mobile developers.**
+
+- ⚡ **Zero-Config RAM Streaming**: Direct `screencap -p` buffer capture leaving zero device clutter or temporary files.
+- 📱 **4K Vector Bezels**: Pixel-crisp iPhone 16 Pro (with Dynamic Island) & Pixel 9 Pro device frames.
+- 📦 **1-Click Store Asset Exporter**: Multi-resolution App Store (6.9", 6.7", 6.5") & Google Play bundles in a single ZIP.
+- 🧩 **VS Code Extension**: Snap and paste framed device mockups directly into Markdown notes and PRs.
+- 🌐 **Live Showcase**: [shriramsingh.github.io/adbsnap](https://shriramsingh.github.io/adbsnap/) &bull; [GitHub Repo](https://github.com/shriramsingh/adbsnap)
+
+---
+
+### ⚡ [PromptTest Studio — Autonomous Mobile QA Brain & Desktop IDE](https://shriramsingh.github.io/prompttest-studio-site/)
 
 <p>
   <a href="https://www.npmjs.com/package/prompttest">
     <img src="https://img.shields.io/npm/v/prompttest.svg?color=cb3837&style=flat-square" alt="npm version" />
   </a>
-  <a href="https://www.npmjs.com/package/prompttest">
-    <img src="https://img.shields.io/npm/dm/prompttest.svg?color=blue&style=flat-square" alt="npm downloads" />
+  <a href="https://shriramsingh.github.io/prompttest-studio-site/">
+    <img src="https://img.shields.io/badge/docs-live-success.svg?style=flat-square" alt="Docs Portal" />
   </a>
   <a href="https://github.com/shriramsingh/prompttest-community">
     <img src="https://img.shields.io/badge/Community-prompttest--community-green?style=flat-square&logo=github" alt="Community Tracker" />
@@ -59,11 +87,11 @@
 
 > **The zero-setup, zero-instrumentation alternative to Appium & Detox for React Native, Expo, and Native Android.**
 
-- 📝 **Plain-English Test Specs**: Write natural language test scripts without brittle XPath selectors or boilerplate test glue code.
-- ⚡ **Zero-Setup & Zero-Instrumentation**: Connects directly over native Android ADB (USB or Wi-Fi); requires zero SDKs or code modifications in the target app.
-- 🤖 **Autonomous State-Graph DFS Explorer**: Crawls apps autonomously, discovers bottom-tab navigation hubs, and triages defects without human intervention.
-- 💡 **Dynamic Self-Healing Locators**: Resilient heuristic matching automatically adapts to changing dynamic counts (e.g. auto-resolving `"Present (2)"` to `"Present (5)"`).
-- 🌐 **Public Community Hub**: [shriramsingh/prompttest-community](https://github.com/shriramsingh/prompttest-community)
+- 📝 **Plain-English Test Specs**: Write natural language test scripts without brittle XPath selectors or boilerplate code.
+- 📱 **Real-Time Device Mirroring**: Low-latency screen interaction with click, drag, and hardware navigation.
+- 📸 **Visual Regression & Exclude Masks**: Pixel-level baseline comparisons with draggable exclude masks for dynamic areas.
+- 🤖 **Autonomous State-Graph DFS Explorer**: Crawls apps autonomously and discovers bugs without human intervention.
+- 🌐 **Documentation & Download Portal**: [shriramsingh.github.io/prompttest-studio-site](https://shriramsingh.github.io/prompttest-studio-site/)
 
 ---
 
@@ -133,8 +161,9 @@
 
 | Product / Project | Description & Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| ⚡ [PromptTest](https://www.npmjs.com/package/prompttest) | Autonomous mobile testing & visual QA engine for Android & React Native ([Community Hub](https://github.com/shriramsingh/prompttest-community)) | `TypeScript` `Node.js` `Android ADB` `Vitest` |
-| 📱 **Restaurant Management** | Web Application for Restaurant Management | `Next js` `TypeScript`  |
+| 📸 [ADBSnap](https://shriramsingh.github.io/adbsnap/) | Automated 4K mobile screenshot framing & store asset studio ([npm](https://www.npmjs.com/package/adbsnap) &bull; [VS Code](https://marketplace.visualstudio.com/items?itemName=shriramsingh.adbsnap) &bull; [Showcase](https://shriramsingh.github.io/adbsnap/)) | `Node.js` `TypeScript` `Sharp` `VS Code API` |
+| ⚡ [PromptTest Studio](https://shriramsingh.github.io/prompttest-studio-site/) | Autonomous mobile QA brain & visual desktop IDE ([npm](https://www.npmjs.com/package/prompttest) &bull; [Docs Portal](https://shriramsingh.github.io/prompttest-studio-site/) &bull; [Community](https://github.com/shriramsingh/prompttest-community)) | `TypeScript` `Android ADB` `Tauri` `Vitest` |
+| 📱 **Restaurant Management** | Web Application for Restaurant Management | `Next.js` `TypeScript`  |
 | 📚 **CoachConnect** | Coaching Institute Management Platform | `React Native` `REST APIs` |
 | 🧠 **Trivia** | Quiz app with AdMob monetization & Stripe integration | `React Native` `Stripe` `AdMob` |
 | 🚗 **CarWash** | On-demand service app with booking, payments & push notifications | `React Native` `Firebase` `Razorpay` |
