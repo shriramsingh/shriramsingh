@@ -3,7 +3,7 @@
 <p align="center">📍 Jaipur, Rajasthan, India</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+React+Native+Developer;Creator+of+ADBSnap+(4K+Store+Asset+Studio);Creator+of+PromptTest+Studio+(Mobile+QA+IDE);5%2B+Years+iOS+%26+Android+Experience;TypeScript+%26+Redux+Toolkit+Expert;Oracle+Certified+AI+Agent+Studio;App+Store+%26+Play+Store+Deployments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Senior+React+Native+Developer;Creator+of+TouchProof+(Live+on+Indus+Appstore);Creator+of+ADBSnap+(4K+Store+Asset+Studio);Creator+of+PromptTest+Studio+(Mobile+QA+IDE);5%2B+Years+iOS+%26+Android+Experience;TypeScript+%26+Redux+Toolkit+Expert;Oracle+Certified+AI+Agent+Studio;App+Store+%26+Play+Store+Deployments" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,6 +31,7 @@
 
 - 📸 **Creator of [ADBSnap](https://shriramsingh.github.io/adbsnap/)** — Automated 4K mobile screenshot framing & store asset studio published on [npm](https://www.npmjs.com/package/adbsnap) and the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=shriramsingh.adbsnap).
 - ⚡ **Creator of [PromptTest Studio](https://shriramsingh.github.io/prompttest-studio-site/)** — Autonomous mobile QA brain & visual desktop IDE for Android & React Native published on [npm](https://www.npmjs.com/package/prompttest).
+- 🛡️ **Creator of [TouchProof](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app)** — Production native Android utility live on PhonePe Indus Appstore featuring dual-sensor fusion and WindowManager touch interception.
 - 🚀 **Senior React Native Developer** with **5+ years of experience** delivering production-ready Android and iOS applications using **React Native & TypeScript**.
 - 🤖 **Oracle Certified Foundations Associate** in **Oracle Fusion AI Agent Studio**.
 - 📱 Experienced across **Restaurant, Education, Gaming, Utility, and Social Networking** products.
@@ -40,7 +41,7 @@
 
 ---
 
-## 🌟 Featured Open-Source Engineering
+## 🌟 Featured Engineering & Products
 
 ### 📸 [ADBSnap — 4K Mobile Device Framing & Store Asset Studio](https://shriramsingh.github.io/adbsnap/)
 
@@ -95,6 +96,27 @@
 
 ---
 
+### 🛡️ [TouchProof — Native Android Pocket & System Touch Shield](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app)
+
+<p>
+  <a href="https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app">
+    <img src="https://img.shields.io/badge/Indus_Appstore-Live_Production-purple?style=flat-square" alt="Live on Indus Appstore" />
+  </a>
+  <img src="https://img.shields.io/badge/Kotlin-Native_Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-UI-4285F4?style=flat-square&logo=android&logoColor=white" alt="Compose" />
+  <img src="https://img.shields.io/badge/Privacy-100%25_Offline-success?style=flat-square" alt="100% Offline" />
+</p>
+
+> **A production native Android utility eliminating pocket mistouches and in-call cheek disconnections using dual-sensor geometry calculations and OS window overlays.**
+
+- 📱 **Dual-Sensor Fusion**: Combines 3-axis accelerometer gravity vectors with proximity thresholds to compute pocket pitch angles without table false-positives.
+- 🪟 **OS Window Touch Interception**: Custom `TYPE_APPLICATION_OVERLAY` architecture shielding touches while keeping background media alive.
+- 📞 **In-Call Telephony Protection**: Automatically shields screen during active phone calls to prevent ear/cheek disconnections.
+- ⚡ **OLED Battery Throttling**: Pitch-black `#000000` canvas rendering with backlight dimming to minimize display power draw.
+- 🛍️ **Store Listing**: [View on PhonePe Indus Appstore ↗](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app)
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -114,6 +136,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
@@ -152,6 +176,7 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
   <img src="https://img.shields.io/badge/Fastlane-00F2B2?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane" />
+  <img src="https://img.shields.io/badge/Indus_Appstore-6739B7?style=flat-square" alt="Indus Appstore" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
@@ -170,7 +195,7 @@
 | 💬 **Addy** | Social networking platform with real-time chat & in-app purchases | `React Native` `CometChat` `Plaid` |
 | 🎥 **LoveLense** | Video dating application with live audio/video streaming | `React Native` `Agora SDK` |
 | 🌐 [restauranManagementSystem](https://github.com/shriramsingh/restauranManagementSystem) | Web-based Restaurant Management System ([Live Demo](https://restauran-management-system.vercel.app/)) | `Java` `JavaScript` |
-| 🔒 [PocketLock-Android](https://github.com/shriramsingh/PocketLock-Android) | Pocket Lock security application for Android | `Java` `Android` |
+| 🛡️ [TouchProof](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app) | Production pocket touch guard & hardware ear guard ([Live on Indus Appstore](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app)) | `Kotlin` `Jetpack Compose` `Android SDK` `Sensor Fusion` |
 | 📄 [HrDocumentGenerator](https://github.com/shriramsingh/HrDocumentGenerator) | Automated HR Document & Report Generator Tool | `JavaScript` `Node.js` |
 
 ---
