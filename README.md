@@ -188,15 +188,14 @@
 | :--- | :--- | :--- |
 | 📸 [ADBSnap](https://shriramsingh.github.io/adbsnap/) | Automated 4K mobile screenshot framing & store asset studio ([npm](https://www.npmjs.com/package/adbsnap) &bull; [VS Code](https://marketplace.visualstudio.com/items?itemName=shriramsingh.adbsnap) &bull; [Showcase](https://shriramsingh.github.io/adbsnap/)) | `Node.js` `TypeScript` `Sharp` `VS Code API` |
 | ⚡ [PromptTest Studio](https://shriramsingh.github.io/prompttest-studio-site/) | Autonomous mobile QA brain & visual desktop IDE ([npm](https://www.npmjs.com/package/prompttest) &bull; [Docs Portal](https://shriramsingh.github.io/prompttest-studio-site/) &bull; [Community](https://github.com/shriramsingh/prompttest-community)) | `TypeScript` `Android ADB` `Tauri` `Vitest` |
-| 📱 **Restaurant Management** | Web Application for Restaurant Management | `Next.js` `TypeScript`  |
-| 📚 **CoachConnect** | Coaching Institute Management Platform | `React Native` `REST APIs` |
-| 🧠 **Trivia** | Quiz app with AdMob monetization & Stripe integration | `React Native` `Stripe` `AdMob` |
-| 🚗 **CarWash** | On-demand service app with booking, payments & push notifications | `React Native` `Firebase` `Razorpay` |
-| 💬 **Addy** | Social networking platform with real-time chat & in-app purchases | `React Native` `CometChat` `Plaid` |
-| 🎥 **LoveLense** | Video dating application with live audio/video streaming | `React Native` `Agora SDK` |
-| 🌐 [restauranManagementSystem](https://github.com/shriramsingh/restauranManagementSystem) | Web-based Restaurant Management System ([Live Demo](https://restauran-management-system.vercel.app/)) | `Java` `JavaScript` |
-| 🛡️ [TouchProof](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app) | Production pocket touch guard & hardware ear guard ([Live on Indus Appstore](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app)) | `Kotlin` `Jetpack Compose` `Android SDK` `Sensor Fusion` |
-| 📄 [HrDocumentGenerator](https://github.com/shriramsingh/HrDocumentGenerator) | Automated HR Document & Report Generator Tool | `JavaScript` `Node.js` |
+| 🛡️ [TouchProof](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app) | Production pocket touch guard & hardware ear guard ([Live on Indus Appstore](https://www.phonepeappstore.com/apps/tools/touchproof/com.touchproof.app/?page=details&id=com.touchproof.app)) | `Kotlin` `Jetpack Compose` `WindowManager` `Sensor Fusion` |
+| 🏛️ [GovJobsIndia](https://govjobsindia.vercel.app/) | National employment recruitment intelligence platform with streaming PDF extractor & crawler observatory ([Live Platform](https://govjobsindia.vercel.app/)) | `Next.js 16` `TypeScript` `MongoDB` `491 Tests` |
+| 🍽️ [KitchenConnect](https://kitchenconnect.vercel.app/) | Multi-tenant restaurant operations platform with real-time kitchen order dispatch & WAC inventory | `Next.js` `TypeScript` `Socket.IO` `Razorpay` |
+| 📚 **CoachConnect** | Academy & coaching institute management platform ([Admin Portal](https://coach-connect-admin.vercel.app) &bull; Mobile App) | `React Native` `Next.js` `MongoDB` `Expo Push` |
+| 📦 [ParcelSafe](https://apps.apple.com/us/app/parcelsafe/id6469541487) | Smart IoT delivery vault & physical hardware security mobile client ([Live on App Store](https://apps.apple.com/us/app/parcelsafe/id6469541487)) | `React Native` `Bluetooth LE` `Apple IAP` `IoT` |
+| 💬 **Addy** | Cross-platform social matchmaking platform with Plaid financial tiers & AI face scanning | `React Native` `CometChat` `Plaid SDK` |
+| 🎥 **LoveLense** | Live video dating application with real-time audio/video streaming & interactive matches | `React Native` `Agora SDK` `WebRTC` |
+| 🚗 **CarWash** | On-demand doorstep automotive service app with booking, payments & push notifications | `React Native` `Firebase` `Razorpay` |
 
 ---
 
